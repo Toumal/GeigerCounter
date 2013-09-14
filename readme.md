@@ -1,5 +1,7 @@
 #Touchscreen-controlled Arduino Geiger Counter
 
+![Geiger counter](http://www.playspoon.com/wiki/images/thumb/3/31/IMGP0118.jpg/500px-IMGP0118.jpg)
+
 A touchscreen-controlled Geiger Counter for Arduino.
 Requires a [Radiation Watch](http://www.radiation-watch.org/) Pocket Geiger sensor, a [ITDB02 Display from SainSmart](http://www.sainsmart.com/arduino-compatibles-1/lcd-module/sainsmart-3-2-tft-lcd-display-touch-panel-pcb-adapter-sd-slot-for-arduino-2560.html) and an Arduino Mega.
 
